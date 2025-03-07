@@ -1,0 +1,20 @@
+{
+  "name": "backend-app",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/Nukxen/papp-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Nukxen/papp-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nukxen/papp-backend.git"
+  },
+  "license": "ISC",
+  "author": "Nuk",
+  "type": "commonjs",
+  "main": "...",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
